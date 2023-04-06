@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # page-web
 OS pagina web
 =======
